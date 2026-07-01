@@ -1,0 +1,8 @@
+{
+  "name": "FitSync Gym Management System",
+  "description": "A comprehensive, modern full-stack gym management system for tracking members, trainers, plans, workouts, attendance, and payments with AI recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
